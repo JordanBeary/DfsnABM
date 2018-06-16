@@ -1,0 +1,5 @@
+matplotlib.pyplot
+numpy
+pandas
+ipywidgets>=7.0.0
+nbinteract>=0.1.8
